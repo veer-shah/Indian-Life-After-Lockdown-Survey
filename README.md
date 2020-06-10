@@ -37,7 +37,10 @@ We breakdown the survey questions into two camps: the demographic questions and 
 
 Respondents who answered that they are employed are randomly given one of the following two subsets of questions. Respondents who are unemployed are automatically asked questions from batch 1. Respondents were asked to consider these questions under two scenarios:  sufficient social distancing at ½ capacity and normal capacity with disinfecting. Below, we show examples for the first scenario. 
 
-<img src="/images/batch1.png" height="250" width="250">
+<p float="left">
+  <img src="/images/batch1.png" width="300" height="300" />
+  <img src="/images/batch2.png" width="300" height="300" />
+</p>
 
 Sahaana Suri and Veer Shah worked on this project, under the counsel of Professor Ashish Goel and Professor Kamesh Munagala.
 

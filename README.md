@@ -18,6 +18,26 @@ The survey also captures the family living situation of the individual, and demo
 
 By the end of the survey collection, we hope to provide researchers and policy-makers a new bank of data that captures the potential behavior of Indians after the lockdown. We hope that indicators of potential economic activity, as well as migration rates provided by the survey can be used in conjunction with epidemiological and other economic analyses that can better inform decision makers.
 
+## Survey
+We breakdown the survey questions into two camps: the demographic questions and the behavioral questions.
+
+### Demographic Questions
+1. What city, state, and district are you located in?  
+2. How many individuals do you share a household with?
+3. How old are you?
+4. What gender do you most identify with?
+5. How many individuals over the age of 60 reside in your household?
+5. Are you employed?
+6. If you are employed, what is your occupation?
+7. Does anyone in your household have a long-term or chronic medical condition, illness or disease (e.g., diabetes, heart conditions, blood pressure, cholesterol)? 
+
+### Behavioral Questions
+1. If you know that individuals are following proper social distancing guidelines in their daily lives, how many guests will you invite to your home on a weekly basis?
+2. If you know that individuals are unable to follow proper social distancing guidelines in their daily lives, how many guests will you invite to your home on a weekly basis?
+
+Respondents who answered that they are employed are randomly given one of the following two subsets of questions. Respondents who are unemployed are automatically asked questions from batch 1. Respondents were asked to consider these questions under two scenarios:  sufficient social distancing at ½ capacity and normal capacity with disinfecting. Below, we show examples for the first scenario. 
+
+
 
 Sahaana Suri and Veer Shah worked on this project, under the counsel of Professor Ashish Goel and Professor Kamesh Munagala.
 

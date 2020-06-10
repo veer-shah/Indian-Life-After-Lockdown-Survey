@@ -35,11 +35,11 @@ We breakdown the survey questions into two camps: the demographic questions and 
 1. If you know that individuals are following proper social distancing guidelines in their daily lives, how many guests will you invite to your home on a weekly basis?
 2. If you know that individuals are unable to follow proper social distancing guidelines in their daily lives, how many guests will you invite to your home on a weekly basis?
 
-Respondents who answered that they are employed are randomly given one of the following two subsets of questions. Respondents who are unemployed are automatically asked questions from batch 1. Respondents were asked to consider these questions under two scenarios:  sufficient social distancing at ½ capacity and normal capacity with disinfecting. Below, we show examples for the first scenario. 
+Respondents who answered that they are employed are randomly given one of the following two subsets of questions. Respondents who are unemployed are automatically asked questions from batch 1. Respondents were asked to consider these questions under two scenarios:  sufficient social distancing at ½ capacity and normal capacity with disinfecting. Below, we show examples for the first scenario (Batch 1 on the left and Batch 2 on the right).
 
 <p float="left">
-  <img src="/images/batch1.png" width="300" height="300" />
-  <img src="/images/batch2.png" width="300" height="300" />
+  <img src="/images/batch1.png" width="400" height="400" />
+  <img src="/images/batch2.png" width="400" height="400" />
 </p>
 
 Sahaana Suri and Veer Shah worked on this project, under the counsel of Professor Ashish Goel and Professor Kamesh Munagala.

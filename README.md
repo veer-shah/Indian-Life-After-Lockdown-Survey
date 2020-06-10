@@ -7,3 +7,6 @@ In this project, our goal was to understand the behavior of people after the loc
 By the end of the survey collection, we hope to provide researchers and policy-makers a new bank of data that captures the potential behavior of Indians after the lockdown.
 
 Sahaana Suri and Veer Shah worked on this project, under the counsel of Professor Ashish Goel and Professor Kamesh Mungala.
+
+
+Last Update: 06/08/2020
